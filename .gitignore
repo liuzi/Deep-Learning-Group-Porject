@@ -1,0 +1,5 @@
+##h5 model
+*.h5
+
+##jupyter
+.ipynb_checkpoints
